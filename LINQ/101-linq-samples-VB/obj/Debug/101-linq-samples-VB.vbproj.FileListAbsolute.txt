@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\bin\Debug\101-linq-samples-VB.exe.config
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\bin\Debug\101-linq-samples-VB.exe
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\bin\Debug\101-linq-samples-VB.pdb
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\bin\Debug\101-linq-samples-VB.xml
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\obj\Debug\101-linq-samples-VB.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\obj\Debug\101-linq-samples-VB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\obj\Debug\_101_linq_samples_VB.Resources.resources
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\obj\Debug\101-linq-samples-VB.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\obj\Debug\101-linq-samples-VB.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\obj\Debug\101-linq-samples-VB.exe
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\obj\Debug\101-linq-samples-VB.xml
+C:\Users\user\source\repos\101-linq-samples-VB\101-linq-samples-VB\obj\Debug\101-linq-samples-VB.pdb

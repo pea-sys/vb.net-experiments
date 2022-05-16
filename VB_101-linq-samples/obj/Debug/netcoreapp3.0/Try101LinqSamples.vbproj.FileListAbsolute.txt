@@ -1,5 +1,0 @@
-C:\Users\user\source\repos\VB_101-linq-samples\VB_101-linq-samples\obj\Debug\netcoreapp3.0\Try101LinqSamples.vbproj.AssemblyReference.cache
-C:\Users\user\source\repos\VB_101-linq-samples\VB_101-linq-samples\obj\Debug\netcoreapp3.0\Try101LinqSamples.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\source\repos\VB_101-linq-samples\VB_101-linq-samples\obj\Debug\netcoreapp3.0\Try101LinqSamples.AssemblyInfoInputs.cache
-C:\Users\user\source\repos\VB_101-linq-samples\VB_101-linq-samples\obj\Debug\netcoreapp3.0\Try101LinqSamples.AssemblyInfo.vb
-C:\Users\user\source\repos\VB_101-linq-samples\VB_101-linq-samples\obj\Debug\netcoreapp3.0\Try101LinqSamples.vbproj.CoreCompileInputs.cache
