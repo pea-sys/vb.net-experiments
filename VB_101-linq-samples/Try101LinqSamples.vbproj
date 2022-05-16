@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <LangVersion>16.9</LangVersion>
+    <DefaultItemExcludes>$(DefaultItemExcludes);$(ProjectDir)**\*.cs</DefaultItemExcludes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.CommandLine.DragonFruit" Version="0.3.0-alpha.19317.1" />
+    <PackageReference Include="System.CommandLine.Experimental" Version="0.3.0-alpha.19317.1" />
+  </ItemGroup>
+</Project>
